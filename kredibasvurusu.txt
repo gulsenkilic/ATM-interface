@@ -1,0 +1,2 @@
+hesapno tcno basvuruTutar sure(ay) 
+90807060 1010101010 1250.0 12

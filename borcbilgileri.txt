@@ -1,0 +1,5 @@
+tcNo elektrikFturasi suFaturasi dogalgazFaturasi telefonFaturasi kartBorcOde krediBorcOde
+1010101010 20.15 20.0 23.0 100.0 0.0 0.0
+2020202020 0.0 0.0 120.0 45.0 0.0 1000.0
+1010303030 59.0 0.0 100.0 56.0 119.0 1195.0
+2040404040 60.0 70.0 114.0 80.0 234.0 4110.0 

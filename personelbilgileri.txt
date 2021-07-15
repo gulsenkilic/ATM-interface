@@ -1,0 +1,5 @@
+tcNo sifre unvan ad soyad telNo
+5050505050 4434 yonetici Seyma Toktas 05316002030
+6060606060 1234 personel Furkan Yilmaz 05446001000
+7070707070 2221 personel Sumeyra Yildirim 05345001060
+8080808080 0101 personel Buse Celik 05312006020 
